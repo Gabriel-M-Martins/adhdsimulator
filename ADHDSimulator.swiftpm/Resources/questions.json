@@ -1,0 +1,807 @@
+[
+    {
+        "number": 1,
+        "text": "Which event directly led to the start of the American Revolutionary War?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The Boston Tea Party"
+            },
+            {
+                "key": "B",
+                "text": "The Battles of Lexington and Concord"
+            },
+            {
+                "key": "C",
+                "text": "The Battle of Bunker Hill"
+            },
+            {
+                "key": "D",
+                "text": "The passing of the Stamp Act"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 2,
+        "text": "What was the primary purpose of the Declaration of Independence?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "To explain the reasons for separating from Britain"
+            },
+            {
+                "key": "B",
+                "text": "To declare war on Britain"
+            },
+            {
+                "key": "C",
+                "text": "To establish a new government"
+            },
+            {
+                "key": "D",
+                "text": "To create a new constitution"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 3,
+        "text": "Who was the primary author of the Declaration of Independence?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "B",
+                "text": "George Washington"
+            },
+            {
+                "key": "C",
+                "text": "Thomas Paine"
+            },
+            {
+                "key": "D",
+                "text": "Benjamin Franklin"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 4,
+        "text": "The United States Constitution replaced which of the following documents?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The Articles of Confederation"
+            },
+            {
+                "key": "B",
+                "text": "The Treaty of Paris"
+            },
+            {
+                "key": "C",
+                "text": "The Magna Carta"
+            },
+            {
+                "key": "D",
+                "text": "The Declaration of Independence"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 5,
+        "text": "The Emancipation Proclamation issued by President Abraham Lincoln had what effect?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "It ended the Civil War"
+            },
+            {
+                "key": "B",
+                "text": "It abolished slavery in the entire United States"
+            },
+            {
+                "key": "C",
+                "text": "It declared all enslaved people in Confederate states to be free"
+            },
+            {
+                "key": "D",
+                "text": "It granted women the right to vote"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 6,
+        "text": "Which battle is considered the turning point of the Civil War?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The Battle of Antietam"
+            },
+            {
+                "key": "B",
+                "text": "The Battle of Gettysburg"
+            },
+            {
+                "key": "C",
+                "text": "The Battle of Shiloh"
+            },
+            {
+                "key": "D",
+                "text": "The Siege of Vicksburg"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 7,
+        "text": "What was the main objective of the Lewis and Clark expedition?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "To find a northern passage to Asia"
+            },
+            {
+                "key": "B",
+                "text": "To establish trade with Native American tribes"
+            },
+            {
+                "key": "C",
+                "text": "To map the newly acquired Louisiana Territory"
+            },
+            {
+                "key": "D",
+                "text": "To claim land on the Pacific coast for the United States"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 8,
+        "text": "Which amendment to the U.S. Constitution gave women the right to vote?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The 21st Amendment"
+            },
+            {
+                "key": "B",
+                "text": "The 15th Amendment"
+            },
+            {
+                "key": "C",
+                "text": "The 19th Amendment"
+            },
+            {
+                "key": "D",
+                "text": "The 16th Amendment"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 9,
+        "text": "The \"Great Migration\" of the early 20th century refers to:",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The arrival of European immigrants at Ellis Island"
+            },
+            {
+                "key": "B",
+                "text": "The movement of African Americans from the South to Northern cities"
+            },
+            {
+                "key": "C",
+                "text": "The migration of Native Americans onto reservations"
+            },
+            {
+                "key": "D",
+                "text": "The westward expansion of settlers across the United States"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 10,
+        "text": "The landmark Supreme Court case \"Brown v. Board of Education\" had which outcome?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "It ruled in favor of school prayer"
+            },
+            {
+                "key": "B",
+                "text": "It mandated the desegregation of public schools"
+            },
+            {
+                "key": "C",
+                "text": "It allowed for the internment of Japanese Americans"
+            },
+            {
+                "key": "D",
+                "text": "It upheld the separate but equal doctrine"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 11,
+        "text": "Despite saying that he had 'no wish but that of living and dying an honest man on my own farm,' which man became the first President of the United States?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "B",
+                "text": "John Adams"
+            },
+            {
+                "key": "C",
+                "text": "George Washington"
+            },
+            {
+                "key": "D",
+                "text": "Alexander Hamilton"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 12,
+        "text": "Who was the first person to sign the Declaration of Independence?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "B",
+                "text": "John Hancock"
+            },
+            {
+                "key": "C",
+                "text": "Benjamin Franklin"
+            },
+            {
+                "key": "D",
+                "text": "George Washington"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 13,
+        "text": "Who wrote this statement: 'We hold these truths to be self-evident, that all men are created equal'?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Benjamin Franklin"
+            },
+            {
+                "key": "B",
+                "text": "George Washington"
+            },
+            {
+                "key": "C",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "D",
+                "text": "Thomas Paine"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 14,
+        "text": "Who said 'I have not yet begun to fight!'?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "John Paul Jones"
+            },
+            {
+                "key": "B",
+                "text": "George Washington"
+            },
+            {
+                "key": "C",
+                "text": "Paul Revere"
+            },
+            {
+                "key": "D",
+                "text": "Patrick Henry"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 15,
+        "text": "The first national capitol was located in what city?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Philadelphia"
+            },
+            {
+                "key": "B",
+                "text": "Boston"
+            },
+            {
+                "key": "C",
+                "text": "New York"
+            },
+            {
+                "key": "D",
+                "text": "Washington, D.C."
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 16,
+        "text": "The British and Americans signed a peace treaty on September 3, 1783, in what city?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Paris, France"
+            },
+            {
+                "key": "B",
+                "text": "London, England"
+            },
+            {
+                "key": "C",
+                "text": "Philadelphia, Pennsylvania"
+            },
+            {
+                "key": "D",
+                "text": "New York, New York"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 17,
+        "text": "How did the Liberty Bell get its crack?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "British troops vandalized it"
+            },
+            {
+                "key": "B",
+                "text": "It cracked as it was being rung"
+            },
+            {
+                "key": "C",
+                "text": "Someone dropped it"
+            },
+            {
+                "key": "D",
+                "text": "It was struck by lightning"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 18,
+        "text": "Who wrote the Star Spangled Banner?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Betsy Ross"
+            },
+            {
+                "key": "B",
+                "text": "Francis Scott Key"
+            },
+            {
+                "key": "C",
+                "text": "Patrick Henry"
+            },
+            {
+                "key": "D",
+                "text": "John Hancock"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 19,
+        "text": "Who said 'I only regret that I have but one life to lose for my country'?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Nathan Hale"
+            },
+            {
+                "key": "B",
+                "text": "Patrick Henry"
+            },
+            {
+                "key": "C",
+                "text": "Thomas Paine"
+            },
+            {
+                "key": "D",
+                "text": "John Paul Jones"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 20,
+        "text": "Who said 'Give me liberty or give me death'?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Paul Revere"
+            },
+            {
+                "key": "B",
+                "text": "Patrick Henry"
+            },
+            {
+                "key": "C",
+                "text": "John Hancock"
+            },
+            {
+                "key": "D",
+                "text": "Thomas Paine"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 21,
+        "text": "Who wrote the pamphlet 'Common Sense'?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Paine"
+            },
+            {
+                "key": "B",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "C",
+                "text": "Benjamin Franklin"
+            },
+            {
+                "key": "D",
+                "text": "John Hancock"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 22,
+        "text": "The British surrendered on October 19, _____, at Yorktown, Virginia.",
+        "answers": [
+            {
+                "key": "A",
+                "text": "1776"
+            },
+            {
+                "key": "B",
+                "text": "1781"
+            },
+            {
+                "key": "C",
+                "text": "1783"
+            },
+            {
+                "key": "D",
+                "text": "1789"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 23,
+        "text": "The Fourth of July commemorates what event?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "The end of the war"
+            },
+            {
+                "key": "B",
+                "text": "The firing of the first shot"
+            },
+            {
+                "key": "C",
+                "text": "The adoption of the Declaration of Independence"
+            },
+            {
+                "key": "D",
+                "text": "The signing of the peace treaty"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 24,
+        "text": "Who was the first Secretary of the Treasury of the United States?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "B",
+                "text": "Alexander Hamilton"
+            },
+            {
+                "key": "C",
+                "text": "James Madison"
+            },
+            {
+                "key": "D",
+                "text": "John Adams"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 25,
+        "text": "Which U.S. president is known for the Louisiana Purchase?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thomas Jefferson"
+            },
+            {
+                "key": "B",
+                "text": "James Madison"
+            },
+            {
+                "key": "C",
+                "text": "Andrew Jackson"
+            },
+            {
+                "key": "D",
+                "text": "John Adams"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 26,
+        "text": "Who served as the President of the Confederate States during the American Civil War?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Robert E. Lee"
+            },
+            {
+                "key": "B",
+                "text": "Jefferson Davis"
+            },
+            {
+                "key": "C",
+                "text": "Ulysses S. Grant"
+            },
+            {
+                "key": "D",
+                "text": "Abraham Lincoln"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 27,
+        "text": "Which amendment to the U.S. Constitution abolished slavery?",
+        "answers": [
+            {
+                "key": "B",
+                "text": "13th Amendment"
+            },
+            {
+                "key": "A",
+                "text": "14th Amendment"
+            },
+            {
+                "key": "C",
+                "text": "15th Amendment"
+            },
+            {
+                "key": "D",
+                "text": "16th Amendment"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 28,
+        "text": "Which event sparked the beginning of the Civil War?",
+        "answers": [
+            {
+                "key": "D",
+                "text": "The attack on Fort Sumter"
+            },
+            {
+                "key": "B",
+                "text": "The Battle of Gettysburg"
+            },
+            {
+                "key": "C",
+                "text": "The Emancipation Proclamation"
+            },
+            {
+                "key": "A",
+                "text": "The signing of the Declaration of Independence"
+            }
+        ],
+        "correctAnswerKey": "D"
+    },
+    {
+        "number": 29,
+        "text": "Who assassinated President Abraham Lincoln?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "John Wilkes Booth"
+            },
+            {
+                "key": "B",
+                "text": "Lee Harvey Oswald"
+            },
+            {
+                "key": "C",
+                "text": "John Hinckley Jr."
+            },
+            {
+                "key": "D",
+                "text": "Charles J. Guiteau"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 30,
+        "text": "What was the purpose of the Homestead Act of 1862?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "To provide land grants to railroads"
+            },
+            {
+                "key": "B",
+                "text": "To encourage settlement in the western United States"
+            },
+            {
+                "key": "C",
+                "text": "To grant citizenship to former slaves"
+            },
+            {
+                "key": "D",
+                "text": "To regulate trade with Native American tribes"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 31,
+        "text": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answers": [
+            {
+                "key": "C",
+                "text": "Amelia Earhart"
+            },
+            {
+                "key": "B",
+                "text": "Bessie Coleman"
+            },
+            {
+                "key": "A",
+                "text": "Harriet Quimby"
+            },
+            {
+                "key": "D",
+                "text": "Jacqueline Cochran"
+            }
+        ],
+        "correctAnswerKey": "C"
+    },
+    {
+        "number": 32,
+        "text": "What was the main reason for the construction of the Panama Canal?",
+        "answers": [
+            {
+                "key": "B",
+                "text": "To facilitate trade between the Atlantic and Pacific Oceans"
+            },
+            {
+                "key": "A",
+                "text": "To establish military bases in Central America"
+            },
+            {
+                "key": "C",
+                "text": "To provide irrigation for farmland in Panama"
+            },
+            {
+                "key": "D",
+                "text": "To build a barrier against pirate attacks"
+            }
+        ],
+        "correctAnswerKey": "B"
+    },
+    {
+        "number": 33,
+        "text": "Who was the first African American to serve on the United States Supreme Court?",
+        "answers": [
+            {
+                "key": "A",
+                "text": "Thurgood Marshall"
+            },
+            {
+                "key": "B",
+                "text": "Clarence Thomas"
+            },
+            {
+                "key": "C",
+                "text": "Sandra Day O'Connor"
+            },
+            {
+                "key": "D",
+                "text": "Ruth Bader Ginsburg"
+            }
+        ],
+        "correctAnswerKey": "A"
+    },
+    {
+        "number": 34,
+        "text": "Which U.S. president signed the Civil Rights Act of 1964 into law?",
+        "answers": [
+            {
+                "key": "D",
+                "text": "Lyndon B. Johnson"
+            },
+            {
+                "key": "B",
+                "text": "John F. Kennedy"
+            },
+            {
+                "key": "C",
+                "text": "Richard Nixon"
+            },
+            {
+                "key": "A",
+                "text": "Dwight D. Eisenhower"
+            }
+        ],
+        "correctAnswerKey": "D"
+    },
+    {
+        "number": 35,
+        "text": "What was the main goal of the Civil Rights Movement?",
+        "answers": [
+            {
+                "key": "C",
+                "text": "To end racial segregation and discrimination against African Americans"
+            },
+            {
+                "key": "B",
+                "text": "To promote immigration reform"
+            },
+            {
+                "key": "A",
+                "text": "To establish voting rights for women"
+            },
+            {
+                "key": "D",
+                "text": "To advocate for workers' rights"
+            }
+        ],
+        "correctAnswerKey": "C"
+    }
+]
